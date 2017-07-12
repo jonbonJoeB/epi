@@ -1,7 +1,7 @@
 public class IsLetterConstructable {
 
     /*
-    13.2
+    12.2
     */
 
     public static boolean isConstructable(String letterText, String magazineText) {

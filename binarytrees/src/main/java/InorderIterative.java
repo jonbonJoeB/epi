@@ -4,7 +4,7 @@ import java.util.List;
 public class InorderIterative {
 
     /*
-    10.7
+    9.7
     */
 
     public static List<Integer> BSTInOrder(BinaryTree<Integer> tree) {

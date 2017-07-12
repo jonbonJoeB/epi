@@ -4,7 +4,7 @@ import java.util.List;
 public class ImplementInorderSpaceEfficient {
 
     /*
-    10.11
+    9.11
     */
 
     public static List<Integer> inorderTraversal(BinaryTreeParent<Integer> tree) {

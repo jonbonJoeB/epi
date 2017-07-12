@@ -4,7 +4,7 @@ import java.util.List;
 public class IntervalCoveringProblem {
 
     /*
-    18.3
+    17.3
     */
 
     public static List<Integer> findMinimumVisits(List<Tuple> intervals) {

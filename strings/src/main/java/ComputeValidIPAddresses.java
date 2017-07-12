@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeValidIPAddresses {
 
     /*
-    7.10
+    6.10
     */
 
     public static List<String> computeValidIPAddresses(String s) {

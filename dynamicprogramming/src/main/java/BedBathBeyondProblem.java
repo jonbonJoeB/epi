@@ -5,7 +5,7 @@ import java.util.Set;
 public class BedBathBeyondProblem {
 
     /*
-    17.7
+    16.7
     */
 
     public static List<String> decompose(String domain, Set<String> dictionary) {

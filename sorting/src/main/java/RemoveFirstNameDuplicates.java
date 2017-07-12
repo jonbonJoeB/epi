@@ -3,7 +3,7 @@ import java.util.List;
 public class RemoveFirstNameDuplicates {
 
     /*
-    14.3
+    13.3
     */
 
     public static void eliminateDuplicates(List<Name> A) {

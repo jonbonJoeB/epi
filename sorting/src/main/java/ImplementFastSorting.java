@@ -1,7 +1,7 @@
 public class ImplementFastSorting {
 
     /*
-    14.9
+    13.9
     */
 
     public static ListNode<Integer> sort(final ListNode<Integer> L) {

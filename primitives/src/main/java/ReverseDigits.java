@@ -1,7 +1,7 @@
 public class ReverseDigits {
 
     /*
-    5.8
+    4.8
     */
 
     public static long reverse(int x) {

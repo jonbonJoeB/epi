@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeStringDecompositions {
 
     /*
-    13.12
+    12.12
     */
 
     public static List<String> findAllSubstring(String s, List<String> words) {

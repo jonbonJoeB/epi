@@ -1,7 +1,7 @@
 public class Palindromic {
 
     /*
-    8.11
+    7.11
     */
 
     public static boolean isPalindromic(ListNode<Integer> list) {

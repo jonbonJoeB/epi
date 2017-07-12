@@ -1,7 +1,7 @@
 public class IsHeightBalanced {
 
     /*
-    10.1
+    9.1
     */
 
     public static boolean isBalanced(BinaryTree<Integer> tree) {

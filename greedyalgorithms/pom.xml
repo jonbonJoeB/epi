@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>greedyalgorithms</artifactId>
-    <name>Chapter 18: Greedy Algorithms and Invariants</name>
+    <name>Chapter 17: Greedy Algorithms and Invariants</name>
     <dependencies>
         <dependency>
             <groupId>gardncl</groupId>

@@ -1,7 +1,7 @@
 public class QueueWithMax {
 
     /*
-    9.10
+    8.10
     */
 
     public void enqueue(Integer x) {

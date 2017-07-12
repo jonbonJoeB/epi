@@ -5,7 +5,7 @@ import java.util.List;
 public class ComputeMedianOnline {
 
     /*
-    11.5
+    10.5
     */
 
     public static List<Double> onlineMedian(Iterator<Integer> sequence) {

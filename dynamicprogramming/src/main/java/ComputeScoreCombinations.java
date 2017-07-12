@@ -3,7 +3,7 @@ import java.util.List;
 public class ComputeScoreCombinations {
 
     /*
-    17.1
+    16.1
     */
 
     public static int compute(int finalScore, List<Integer> playScores) {

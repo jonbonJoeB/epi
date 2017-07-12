@@ -1,7 +1,7 @@
 public class FindFirstOccurrenceOfSubstring {
 
     /*
-    7.13
+    6.13
     */
 
     public static int findFirst(String string, String substring) {

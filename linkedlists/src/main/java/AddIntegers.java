@@ -1,7 +1,7 @@
 public class AddIntegers {
 
     /*
-    8.13
+    7.13
     */
     
     public static ListNode<Integer> addIntegers(ListNode<Integer> a, ListNode<Integer> b) {

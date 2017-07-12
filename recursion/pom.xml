@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>recursion</artifactId>
-    <name>Chapter 16: Recursion</name>
+    <name>Chapter 15: Recursion</name>
     <dependencies>
         <dependency>
             <groupId>gardncl</groupId>

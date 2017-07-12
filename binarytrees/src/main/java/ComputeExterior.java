@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeExterior {
 
     /*
-    10.15
+    9.15
     */
 
     public static List<BinaryTree<Integer>> exteriorBinaryTree(BinaryTree<Integer> tree) {

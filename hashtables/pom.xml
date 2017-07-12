@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>hashtables</artifactId>
-    <name>Chapter 13: Hash Tables</name>
+    <name>Chapter 12: Hash Tables</name>
     <dependencies>
         <dependency>
             <groupId>gardncl</groupId>

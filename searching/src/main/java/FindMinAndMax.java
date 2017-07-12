@@ -3,7 +3,7 @@ import java.util.List;
 public class FindMinAndMax {
 
     /*
-    12.7
+    11.7
     */
 
     public static MinMax findMinMax(List<Integer> list) {

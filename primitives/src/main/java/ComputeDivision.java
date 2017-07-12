@@ -1,7 +1,7 @@
 public class ComputeDivision {
 
     /*
-    5.6
+    4.6
     */
 
     public static long divide(long x, long y) {

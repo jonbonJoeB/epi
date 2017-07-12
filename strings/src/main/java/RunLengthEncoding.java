@@ -1,7 +1,7 @@
 public class RunLengthEncoding {
 
     /*
-    7.12
+    6.12
     */
 
     public static String encode(String s) {

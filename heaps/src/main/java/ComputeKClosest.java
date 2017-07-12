@@ -5,7 +5,7 @@ import java.util.List;
 public class ComputeKClosest {
 
     /*
-    11.4
+    10.4
     */
 
     private static final Star EARTH_COORDINATES = new Star(0,0,0);

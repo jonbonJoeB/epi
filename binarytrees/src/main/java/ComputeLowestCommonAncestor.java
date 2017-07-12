@@ -1,7 +1,7 @@
 public class ComputeLowestCommonAncestor {
 
     /*
-    10.3
+    9.3
     */
 
     public static BinaryTree<Integer> LCA(BinaryTree<Integer> tree, BinaryTree<Integer> node0, BinaryTree<Integer> node1) {

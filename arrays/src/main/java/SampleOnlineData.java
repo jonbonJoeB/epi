@@ -4,7 +4,7 @@ import java.util.List;
 public class SampleOnlineData {
 
     /*
-    6.12
+    5.12
     */
 
     public static List<Integer> runningSample(int k, List<Integer> sequence) {

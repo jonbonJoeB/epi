@@ -3,7 +3,7 @@ import java.util.List;
 public class DeleteDuplicates {
 
     /*
-    6.5
+    5.5
     */
 
     public static int deleteDuplicates(List<Integer> A) {

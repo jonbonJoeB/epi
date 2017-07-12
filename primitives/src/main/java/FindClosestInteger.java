@@ -1,7 +1,7 @@
 public class FindClosestInteger {
 
     /*
-    5.4
+    4.4
     */
 
     public static long closestIntSameBitCount(long x) {

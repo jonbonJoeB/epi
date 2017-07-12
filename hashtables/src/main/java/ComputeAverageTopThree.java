@@ -3,7 +3,7 @@ import java.util.Iterator;
 public class ComputeAverageTopThree {
 
     /*
-    13.11
+    12.11
     */
 
     public static class NameScore {

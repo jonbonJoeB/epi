@@ -1,6 +1,6 @@
 public class AnalyzeUnsyncronizedThreads {
 
     /*
-    20.2
+    19.2
     */
 }

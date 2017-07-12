@@ -3,7 +3,7 @@ import java.util.List;
 public class ClosestEntries {
 
     /*
-    15.6
+    14.6
     */
 
     public static int findMin(List<List<Integer>> sortedArrays) {

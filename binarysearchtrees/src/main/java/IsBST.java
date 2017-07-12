@@ -1,7 +1,7 @@
 public class IsBST {
 
     /*
-    15.1
+    14.1
     */
 
     public static boolean isBST(BinaryTree<Integer> tree) {

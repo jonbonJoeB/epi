@@ -1,7 +1,7 @@
 public class InterconvertStringAndInteger {
 
     /*
-    7.1
+    6.1
     */
 
     public static Integer stringToInt(String number) {

@@ -3,7 +3,7 @@ import java.util.Iterator;
 public class FindMajorityElement {
 
     /*
-    18.5
+    17.5
     */
 
     public static String majoritySearch(Iterator<String> sequence) {

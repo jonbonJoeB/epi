@@ -4,7 +4,7 @@ import java.util.List;
 public class NQueens {
 
     /*
-    16.2
+    15.2
     */
 
     public static List<List<Integer>> nQueens(int n) {

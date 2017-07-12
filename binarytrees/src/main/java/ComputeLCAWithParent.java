@@ -1,7 +1,7 @@
 public class ComputeLCAWithParent {
 
     /*
-    10.4
+    9.4
     */
 
     public static BinaryTreeParent<Integer> LCA(BinaryTreeParent<Integer> node0, BinaryTreeParent<Integer> node1) {

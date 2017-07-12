@@ -3,7 +3,7 @@ import java.util.List;
 public class SudokuChecker {
 
     /*
-    6.16
+    5.16
     */
 
     public static boolean isValidSudoku(List<List<Integer>> partialAssignment) {

@@ -1,7 +1,7 @@
 public class SwapBits {
 
     /*
-    5.2
+    4.2
     */
 
     public static long swapBits(long x, int i, int j) {

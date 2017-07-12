@@ -1,7 +1,7 @@
 public class LockingBinaryTree extends BinaryTree<Integer> {
 
     /*
-    10.17
+    9.17
     */
 
     public LockingBinaryTree(Integer data) {

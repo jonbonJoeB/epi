@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>binarytrees</artifactId>
-    <name>Chapter 10: Binary Trees</name>
+    <name>Chapter 9: Binary Trees</name>
     <dependencies>
         <dependency>
             <groupId>gardncl</groupId>

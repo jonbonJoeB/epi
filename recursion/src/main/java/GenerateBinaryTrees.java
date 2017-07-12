@@ -4,7 +4,7 @@ import java.util.List;
 public class GenerateBinaryTrees {
 
     /*
-    16.8
+    15.8
     */
 
     public static List<BinaryTree<Integer>> generateAllBinaryTrees(int numNodes) {

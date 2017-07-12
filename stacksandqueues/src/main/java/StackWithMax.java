@@ -1,7 +1,7 @@
 public class StackWithMax {
 
     /*
-    9.1
+    8.1
     */
 
     public StackWithMax() {

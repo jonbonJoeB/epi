@@ -4,7 +4,7 @@ import java.util.List;
 public class RangeLookup {
 
     /*
-    15.12
+    14.12
     */
 
     public static List<Integer> range(BinaryTree<Integer> tree,

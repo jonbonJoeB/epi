@@ -4,7 +4,7 @@ import java.util.Set;
 public class SmallestSequentialSubarray {
 
     /*
-    13.8
+    12.8
     */
 
     public static Tuple findSubarray(List<String> paragraph, Set<String> keywords) {

@@ -3,7 +3,7 @@ import java.util.*;
 public class ComputeMnemonicsPhoneNumber {
 
     /*
-    7.7
+    6.7
     */
 
 

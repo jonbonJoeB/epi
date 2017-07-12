@@ -1,7 +1,7 @@
 public class ComputeKthNodeInorder {
 
     /*
-    10.9
+    9.9
     */
 
     public static BinaryTree<Integer> findKthNodeBinaryTree(BinaryTree<Integer> tree, int k) {

@@ -1,7 +1,7 @@
 public class EvaluateRPNExpressions {
 
     /*
-    9.2
+    8.2
     */
 
     public static Integer eval(String RPNExpression) {

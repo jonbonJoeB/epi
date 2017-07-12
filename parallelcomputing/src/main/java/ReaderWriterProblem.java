@@ -1,7 +1,7 @@
 public class ReaderWriterProblem {
 
     /*
-    20.6
+    19.6
     */
 
     public static class Reader extends Thread {

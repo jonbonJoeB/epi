@@ -1,7 +1,7 @@
 public class QueueWithStacks {
 
     /*
-    9.9
+    8.9
     */
 
     public QueueWithStacks() {

@@ -1,7 +1,7 @@
 public class FirstGreaterThan {
 
     /*
-    15.2
+    14.2
     */
 
     public static BinaryTree<Integer> find(BinaryTree<Integer> tree, Integer k) {

@@ -4,7 +4,7 @@ import java.util.List;
 public class PreorderIterative {
 
     /*
-    10.8
+    9.8
     */
 
     public static List<Integer> BSTPreOrder(BinaryTree<Integer> tree) {

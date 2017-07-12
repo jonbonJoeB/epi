@@ -1,7 +1,7 @@
 public class ComputePower {
 
     /*
-    5.7
+    4.7
     */
 
     public static double power(double x, int y) {

@@ -1,7 +1,7 @@
 public class SumRootToLeaf {
 
     /*
-    10.5
+    9.5
     */
 
     public static int sumRootToLeaf(BinaryTree<Integer> tree) {

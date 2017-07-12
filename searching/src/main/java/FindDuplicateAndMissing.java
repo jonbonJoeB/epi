@@ -3,7 +3,7 @@ import java.util.List;
 public class FindDuplicateAndMissing {
 
     /*
-    12.10
+    11.10
     */
 
     public static Tuple search(List<Integer> list) {

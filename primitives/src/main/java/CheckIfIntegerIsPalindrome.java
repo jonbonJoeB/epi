@@ -1,7 +1,7 @@
 public class CheckIfIntegerIsPalindrome {
 
     /*
-    5.9
+    4.9
     */
 
     public static boolean isPalindrome(int x) {

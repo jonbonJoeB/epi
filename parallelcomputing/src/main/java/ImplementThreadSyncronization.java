@@ -3,7 +3,7 @@ import java.util.List;
 public class ImplementThreadSyncronization {
 
     /*
-    20.3
+    19.3
     */
 
     public static class OddThread extends Thread {

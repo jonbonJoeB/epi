@@ -1,7 +1,7 @@
 public class PalindromicPermutations {
 
     /*
-    13.1
+    12.1
     */
 
     public static boolean canFormPalindrome(String s) {

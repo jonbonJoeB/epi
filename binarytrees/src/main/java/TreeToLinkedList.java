@@ -4,7 +4,7 @@ import java.util.List;
 public class TreeToLinkedList {
 
     /*
-    10.14
+    9.14
     */
 
     public static List<BinaryTree<Integer>> createListOfLeaves(BinaryTree<Integer> tree) {

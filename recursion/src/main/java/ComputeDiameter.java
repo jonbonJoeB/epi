@@ -1,7 +1,7 @@
 public class ComputeDiameter {
 
     /*
-    16.11
+    15.11
     */
 
     public static int computeDiameter(TreeNode T) {

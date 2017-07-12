@@ -1,7 +1,7 @@
 public class TowersOfHanoi {
 
     /*
-    16.1
+    15.1
     */
 
     private static final int NUM_PEGS = 3;

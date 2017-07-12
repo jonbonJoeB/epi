@@ -1,7 +1,7 @@
 public class ReplaceAndRemove {
 
     /*
-    7.4
+    6.4
     */
 
     public static String replaceAndRemove(char[] s, int k) {

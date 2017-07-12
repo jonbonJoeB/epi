@@ -3,7 +3,7 @@ import java.util.List;
 public class TeamPhotoDay {
 
     /*
-    14.8
+    13.8
     */
 
     public static boolean validPlacementExists(Team A, Team B) {

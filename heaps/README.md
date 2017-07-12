@@ -1,9 +1,9 @@
-# Chapter 11: Heaps
+# Chapter 10: Heaps
 
-- [ ] 11.1 MergeSortedFiles
-- [ ] 11.2 SortIncDec
-- [ ] 11.3 SortAlmostSorted
-- [ ] 11.4 ComputeKClosest
-- [ ] 11.5 ComputeMedianOnline
-- [ ] 11.6 ComputeKLargest
-- [ ] 11.7 HeapStack
+- [ ] 10.1 MergeSortedFiles
+- [ ] 10.2 SortIncDec
+- [ ] 10.3 SortAlmostSorted
+- [ ] 10.4 ComputeKClosest
+- [ ] 10.5 ComputeMedianOnline
+- [ ] 10.6 ComputeKLargest
+- [ ] 10.7 HeapStack

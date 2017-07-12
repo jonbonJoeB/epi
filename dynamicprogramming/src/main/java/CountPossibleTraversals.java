@@ -1,7 +1,7 @@
 public class CountPossibleTraversals {
 
     /*
-    17.3
+    16.3
     */
 
     public static int numberOfWays(int n, int m) {

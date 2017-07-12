@@ -1,7 +1,7 @@
 public class LRUCache {
 
     /*
-    13.3
+    12.3
     */
 
     private int capacity;

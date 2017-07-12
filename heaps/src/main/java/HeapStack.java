@@ -1,7 +1,7 @@
 public class HeapStack {
 
     /*
-    11.7
+    10.7
     */
 
     public void push(Integer x) {

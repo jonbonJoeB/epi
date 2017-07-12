@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeSpiralOrdering {
 
     /*
-    6.17
+    5.17
     */
 
     public static List<Integer> matrixInSpiralOrder(List<List<Integer>> squareMatrix) {

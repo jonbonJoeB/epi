@@ -1,7 +1,7 @@
 public class HashFunctionChess {
 
     /*
-    13.14
+    12.14
     */
 
 

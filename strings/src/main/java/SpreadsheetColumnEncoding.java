@@ -1,7 +1,7 @@
 public class SpreadsheetColumnEncoding {
 
     /*
-    7.3
+    6.3
     */
 
     public static int decodeSpreadsheetColumn(String code) {

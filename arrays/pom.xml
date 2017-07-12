@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>arrays</artifactId>
-    <name>Chapter 6: Arrays</name>
+    <name>Chapter 5: Arrays</name>
 
     <dependencies>
         <dependency>

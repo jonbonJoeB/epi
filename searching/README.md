@@ -1,12 +1,12 @@
-# Chapter 12: Searching
+# Chapter 11: Searching
 
-- [ ] 12.1 SearchSorted
-- [ ] 12.2 SearchSortedIndex
-- [ ] 12.3 SearchSortedCyclic
-- [ ] 12.4 IntegerSquareRoot
-- [ ] 12.5 RealSquareRoot
-- [ ] 12.6 SearchSorted2D
-- [ ] 12.7 FindMinAndMax
-- [ ] 12.8 FindKthLargest
-- [ ] 12.9 FindMissingIP
-- [ ] 12.10 FindDuplicateAndMissing
+- [ ] 11.1 SearchSorted
+- [ ] 11.2 SearchSortedIndex
+- [ ] 11.3 SearchSortedCyclic
+- [ ] 11.4 IntegerSquareRoot
+- [ ] 11.5 RealSquareRoot
+- [ ] 11.6 SearchSorted2D
+- [ ] 11.7 FindMinAndMax
+- [ ] 11.8 FindKthLargest
+- [ ] 11.9 FindMissingIP
+- [ ] 11.10 FindDuplicateAndMissing

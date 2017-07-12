@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>dynamicprogramming</artifactId>
-    <name>Chapter 17: Dynamic Programming</name>
+    <name>Chapter 16: Dynamic Programming</name>
     <dependencies>
         <dependency>
             <groupId>gardncl</groupId>

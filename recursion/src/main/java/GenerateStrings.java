@@ -4,7 +4,7 @@ import java.util.List;
 public class GenerateStrings {
 
     /*
-    16.6
+    15.6
     */
 
     public static List<String> generateBalancedParentheses(int numpairs) {

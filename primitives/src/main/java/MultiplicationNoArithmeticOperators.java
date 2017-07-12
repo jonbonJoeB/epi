@@ -1,7 +1,7 @@
 public class MultiplicationNoArithmeticOperators {
 
     /*
-    5.5
+    4.5
     */
 
     public static long multiply(long x, long y) {

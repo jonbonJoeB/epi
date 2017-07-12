@@ -1,7 +1,7 @@
 public class ComputeParity {
 
     /*
-    5.1
+    4.1
     */
 
     public static short parity(long n) {

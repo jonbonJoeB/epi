@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeRandomSubset {
 
     /*
-    6.14
+    5.14
     */
 
     public static List<Integer> randomSubset(int n, int k) {

@@ -1,7 +1,7 @@
 public class IsSymmetric {
 
     /*
-    10.2
+    9.2
     */
 
     public static boolean isSymmetric(BinaryTree<Integer> tree) {

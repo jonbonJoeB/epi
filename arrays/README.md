@@ -1,21 +1,21 @@
-# Chapter 6: Arrays  
+# Chapter 5: Arrays  
 
-- [ ] 6.1 DutchNationalFlag
-- [ ] 6.2 IncrementArbitraryPrecisionInteger
-- [ ] 6.3 MultipleArbitraryPrecisionInteger
-- [ ] 6.4 AdvanceThroughArray
-- [ ] 6.5 DeleteDuplicates
-- [ ] 6.6 BuySellStockOnce
-- [ ] 6.7 BuySellStockTwice
-- [ ] 6.8 EnumeratePrimes
-- [ ] 6.9 PermuteElements
-- [ ] 6.10 NextPermutation
-- [ ] 6.11 SampleOfflineData
-- [ ] 6.12 SampleOnlineData
-- [ ] 6.13 ComputeRandomPermutation
-- [ ] 6.14 ComputeRandomSubset
-- [ ] 6.15 GenerateNonuniformRandomNumbers
-- [ ] 6.16 SudokuChecker
-- [ ] 6.17 ComputeSpiralOrdering
-- [ ] 6.18 Rotate2DArray
-- [ ] 6.19 ComputePascalsTriangle
+- [ ] 5.1 DutchNationalFlag
+- [ ] 5.2 IncrementArbitraryPrecisionInteger
+- [ ] 5.3 MultipleArbitraryPrecisionInteger
+- [ ] 5.4 AdvanceThroughArray
+- [ ] 5.5 DeleteDuplicates
+- [ ] 5.6 BuySellStockOnce
+- [ ] 5.7 BuySellStockTwice
+- [ ] 5.8 EnumeratePrimes
+- [ ] 5.9 PermuteElements
+- [ ] 5.10 NextPermutation
+- [ ] 5.11 SampleOfflineData
+- [ ] 5.12 SampleOnlineData
+- [ ] 5.13 ComputeRandomPermutation
+- [ ] 5.14 ComputeRandomSubset
+- [ ] 5.15 GenerateNonuniformRandomNumbers
+- [ ] 5.16 SudokuChecker
+- [ ] 5.17 ComputeSpiralOrdering
+- [ ] 5.18 Rotate2DArray
+- [ ] 5.19 ComputePascalsTriangle

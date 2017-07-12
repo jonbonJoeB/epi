@@ -3,7 +3,7 @@ import java.util.List;
 public class PrettyPrintingProblem {
 
     /*
-    17.11
+    16.11
     */
 
     public static int minimumMessiness(List<String> words, int lineLength) {

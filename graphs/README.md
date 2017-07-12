@@ -1,11 +1,11 @@
-# Chapter 19: Graphs
+# Chapter 18: Graphs
 
-- [ ] 19.1 SearchMaze
-- [ ] 19.2 PaintBooleanMatrix
-- [ ] 19.3 ComputeEnclosedRegions
-- [ ] 19.4 DeadlockDetection
-- [ ] 19.5 CloneAGraph
-- [ ] 19.6 MakingWiredConnections
-- [ ] 19.7 TransformOneStringToAnother
-- [ ] 19.8 TeamPhotoDay
-- [ ] 19.9 ComputeShortestPath
+- [ ] 18.1 SearchMaze
+- [ ] 18.2 PaintBooleanMatrix
+- [ ] 18.3 ComputeEnclosedRegions
+- [ ] 18.4 DeadlockDetection
+- [ ] 18.5 CloneAGraph
+- [ ] 18.6 MakingWiredConnections
+- [ ] 18.7 TransformOneStringToAnother
+- [ ] 18.8 TeamPhotoDay
+- [ ] 18.9 ComputeShortestPath

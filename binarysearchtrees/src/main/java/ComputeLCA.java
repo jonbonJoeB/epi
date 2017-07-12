@@ -1,7 +1,7 @@
 public class ComputeLCA {
 
     /*
-    15.4
+    14.4
     */
 
     public static BinaryTree<Integer> findLCA(BinaryTree<Integer> tree,

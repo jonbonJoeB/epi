@@ -1,7 +1,7 @@
 public class MergeSortedLists {
 
     /*
-    8.1
+    7.1
     */
 
     public static ListNode<Integer> mergeLists(ListNode<Integer> list1, ListNode<Integer> list2) {

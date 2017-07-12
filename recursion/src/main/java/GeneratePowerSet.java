@@ -4,7 +4,7 @@ import java.util.List;
 public class GeneratePowerSet {
 
     /*
-    16.4
+    15.4
     */
 
     public static List<List<Integer>> generatePowerSet(List<Integer> inputSet) {

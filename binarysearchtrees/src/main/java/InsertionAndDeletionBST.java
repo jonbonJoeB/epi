@@ -1,7 +1,7 @@
 public class InsertionAndDeletionBST extends BinaryTree<Integer> {
 
     /*
-    15.10
+    14.10
     */
 
     public InsertionAndDeletionBST(Integer data) {

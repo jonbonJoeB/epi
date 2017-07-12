@@ -1,7 +1,7 @@
 public class ClientCreditsInfo {
 
     /*
-    15.13
+    14.13
     */
 
     public void insert(String clientID, int c) {

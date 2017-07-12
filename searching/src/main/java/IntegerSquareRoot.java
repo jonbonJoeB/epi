@@ -1,7 +1,7 @@
 public class IntegerSquareRoot {
 
     /*
-    12.4
+    11.4
     */
 
     public static int squareRoot(int n) {

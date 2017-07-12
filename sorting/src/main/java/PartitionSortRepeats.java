@@ -3,7 +3,7 @@ import java.util.List;
 public class PartitionSortRepeats {
 
     /*
-    14.7
+    13.7
     */
 
     public static void groupByAge(List<Person> people) {

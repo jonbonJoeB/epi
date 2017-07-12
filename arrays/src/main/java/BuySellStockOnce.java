@@ -3,7 +3,7 @@ import java.util.List;
 public class BuySellStockOnce {
 
     /*
-       6.6
+       5.6
     */
 
     public static int buySellStockOnce(List<Integer> A) {

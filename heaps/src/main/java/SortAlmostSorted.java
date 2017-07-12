@@ -5,7 +5,7 @@ import java.util.List;
 public class SortAlmostSorted {
 
     /*
-    11.3
+    10.3
     */
 
     public static List sort(Iterator<Integer> sequence, int k) {

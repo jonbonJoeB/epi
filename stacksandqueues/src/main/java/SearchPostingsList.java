@@ -1,7 +1,7 @@
 public class SearchPostingsList {
 
     /*
-    9.5
+    8.5
     */
 
     public static void setJumpOrderRecursive(PostingListNode<Integer> node) {

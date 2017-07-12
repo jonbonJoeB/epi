@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeUnion {
 
     /*
-    14.6
+    13.6
     */
 
     public static List<Interval> unionOfIntervals(List<Interval> intervals) {

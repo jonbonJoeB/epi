@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeKMostFrequent {
 
     /*
-    13.5
+    12.5
     */
 
     public static List<String> mostFrequent(List<String> list, int k) {

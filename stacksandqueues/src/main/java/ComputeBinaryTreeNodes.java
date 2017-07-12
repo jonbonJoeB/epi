@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeBinaryTreeNodes {
 
     /*
-    9.7
+    8.7
     */
 
     public static List<List<Integer>> binaryTreeDepthOrder(BinaryTree<Integer> tree) {

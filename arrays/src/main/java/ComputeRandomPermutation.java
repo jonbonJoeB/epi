@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeRandomPermutation {
 
     /*
-    6.13
+    5.13
     */
 
     public static List<Integer> computeRandomPermutation(int n) {

@@ -1,11 +1,11 @@
-# Chapter 18: Greedy Algorithms and Invariants
+# Chapter 17: Greedy Algorithms and Invariants
 
-- [ ] 18.1 ComputeOptimumAssignment
-- [ ] 18.2 ScheduleMinimizedWaitingTime
-- [ ] 18.3 IntervalCoveringProblem
-- [ ] 18.4 ThreeSumProblem
-- [ ] 18.5 FindMajorityElement
-- [ ] 18.6 GasUpProblem
-- [ ] 18.7 ComputeMaximumWaterTrapped
-- [ ] 18.8 ComputeLargestRectangle
+- [ ] 17.1 ComputeOptimumAssignment
+- [ ] 17.2 ScheduleMinimizedWaitingTime
+- [ ] 17.3 IntervalCoveringProblem
+- [ ] 17.4 ThreeSumProblem
+- [ ] 17.5 FindMajorityElement
+- [ ] 17.6 GasUpProblem
+- [ ] 17.7 ComputeMaximumWaterTrapped
+- [ ] 17.8 ComputeLargestRectangle
  

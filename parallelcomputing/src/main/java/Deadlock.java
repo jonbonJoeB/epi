@@ -1,7 +1,7 @@
 public class Deadlock {
 
     /*
-    20.5
+    19.5
     */
 
     public static class Account {

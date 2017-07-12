@@ -1,7 +1,7 @@
 public class AreNodesOrdered {
 
     /*
-    15.11
+    14.11
     */
 
     public static boolean totallyOrdered(BinaryTree<Integer> possible1,

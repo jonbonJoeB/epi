@@ -3,7 +3,7 @@ import java.util.List;
 public class ReconstructBinaryTree {
 
     /*
-    10.12
+    9.12
     */
 
     public static BinaryTree<Integer> binaryTreeFromPreorderInorder(List<Integer> preorder, List<Integer> inorder) {

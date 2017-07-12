@@ -1,7 +1,7 @@
 public class FindRootToLeafSum {
 
     /*
-    10.6
+    9.6
     */
 
     public static boolean hasPathSum(BinaryTree<Integer> tree, int targetSum) {

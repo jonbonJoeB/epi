@@ -1,11 +1,11 @@
-# Chapter 20: Parallel Computing
+# Chapter 19: Parallel Computing
 
-- [ ] 20.1 ImplementCachingDictionary
-- [ ] 20.2 AnalyzeUnsyncronizedThreads
-- [ ] 20.3 ImplementThreadSyncronization
-- [ ] 20.4 ImplementThreadPool
-- [ ] 20.5 Deadlock
-- [ ] 20.6 ReaderWriterProblem
-- [ ] 20.7 ReaderWriterProblemPreference
-- [ ] 20.8 ImplementTimer
-- [ ] 20.9 TestCollatzConjecture
+- [ ] 19.1 ImplementCachingDictionary
+- [ ] 19.2 AnalyzeUnsyncronizedThreads
+- [ ] 19.3 ImplementThreadSyncronization
+- [ ] 19.4 ImplementThreadPool
+- [ ] 19.5 Deadlock
+- [ ] 19.6 ReaderWriterProblem
+- [ ] 19.7 ReaderWriterProblemPreference
+- [ ] 19.8 ImplementTimer
+- [ ] 19.9 TestCollatzConjecture

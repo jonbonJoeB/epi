@@ -4,7 +4,7 @@ import java.util.List;
 public class ComputeIntersection {
 
     /*
-    14.1
+    13.1
     */
 
     public static List<Integer> intersection(List<Integer> A, List<Integer> B) {

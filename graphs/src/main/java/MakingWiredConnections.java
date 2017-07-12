@@ -3,7 +3,7 @@ import java.util.List;
 public class MakingWiredConnections {
 
     /*
-    19.6
+    18.6
     */
 
     public static boolean isAnyPlacementFeasible(List<GraphVertex> G) {

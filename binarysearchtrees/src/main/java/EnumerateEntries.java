@@ -4,7 +4,7 @@ import java.util.List;
 public class EnumerateEntries {
 
     /*
-    15.7
+    14.7
     */
 
     public static class ABSqrt2 implements Comparable<ABSqrt2> {

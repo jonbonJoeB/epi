@@ -1,7 +1,7 @@
 public class ComputeLevenshtein {
 
     /*
-    17.2
+    16.2
     */
 
     public static int levenschteinDistance(String A, String B) {

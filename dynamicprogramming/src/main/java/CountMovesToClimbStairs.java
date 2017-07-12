@@ -1,7 +1,7 @@
 public class CountMovesToClimbStairs {
 
     /*
-    17.10
+    16.10
     */
 
     public static int numberOfWays(int top, int maximumStep) {
