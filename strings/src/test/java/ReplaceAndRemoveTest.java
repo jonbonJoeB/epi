@@ -11,7 +11,7 @@ public class ReplaceAndRemoveTest {
     @Test
     public void replaceAndRemove1() {
         expected = "dd";
-        input = "a ";
+        input = "a";
         k=1;
 
         test(expected, input, k);
@@ -29,7 +29,7 @@ public class ReplaceAndRemoveTest {
     @Test
     public void replaceAndRemove3() {
         expected = "ddddc";
-        input = "abac ";
+        input = "abac";
         k=4;
 
         test(expected, input, k);
