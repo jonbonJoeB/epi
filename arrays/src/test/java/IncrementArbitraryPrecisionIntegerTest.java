@@ -1,5 +1,6 @@
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -19,8 +20,19 @@ public class IncrementArbitraryPrecisionIntegerTest {
 
     @Test
     public void incrementInteger2() {
-        input = Arrays.asList(9,9,9,9,9,9,9);
-        incremented = Arrays.asList(0,0,0,0,0,0,0);
+        // Arrays.asList() list implementation does not support the 'add' operation
+        // so we wouldn't be able to add the 1 to this list
+        input = new ArrayList<>();
+        input.add(9);
+        input.add(9);
+        input.add(9);
+        input.add(9);
+        input.add(9);
+        input.add(9);
+        input.add(9);
+
+        incremented = Arrays.asList(1,0,0,0,0,0,0,0);
+
         test(input,incremented);
     }
 
@@ -35,6 +47,5 @@ public class IncrementArbitraryPrecisionIntegerTest {
         IncrementArbitraryPrecisionInteger.incrementInteger(input);
         assertEquals(incremented, input);
     }
-
 
 }
