@@ -14,7 +14,7 @@ public class Star implements Comparable<Star> {
 
     @Override
     public int compareTo(Star rhs) {
-        return Double.compare(this.distance(), rhs.distance());
+        return Double.compare(distance(), rhs.distance());
     }
 
     @Override
