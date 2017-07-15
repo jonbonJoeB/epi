@@ -9,7 +9,7 @@ public class IntegerSquareRootTest {
 
     @Test
     public void squareRoot1() throws Exception {
-        expected = 4;
+        expected = 2;
         n = 4;
 
         test(expected, n);
@@ -27,6 +27,22 @@ public class IntegerSquareRootTest {
     public void squareRoot3() throws Exception {
         expected = 13;
         n = 185;
+
+        test(expected, n);
+    }
+
+    @Test
+    public void squareRoot4() throws Exception {
+        expected = 4;
+        n = 16;
+
+        test(expected, n);
+    }
+
+    @Test
+    public void squareRoot5() throws Exception {
+        expected = 17;
+        n = 300;
 
         test(expected, n);
     }
