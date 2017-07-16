@@ -20,7 +20,7 @@ public class SearchSortedCyclicTest {
 
     @Test
     public void search2() throws Exception {
-        expected = 2;
+        expected = 0;
         list = Arrays.asList(4,5,0,1,2,3);
 
         test(expected, list);
@@ -28,7 +28,7 @@ public class SearchSortedCyclicTest {
 
     @Test
     public void search3() throws Exception {
-        expected = 8;
+        expected = 0;
         list = Arrays.asList(2,3,4,5,6,7,8,9,0,1);
 
         test(expected, list);
