@@ -26,12 +26,6 @@ public class FirstGreaterThanTest {
         test(expected, tree, k);
     }
 
-    @Test
-    public void find3() throws Exception {
-        tree = BinaryTreeUtil.getFigureFifteenDotOne();
-
-        test(expected, tree, k);
-    }
 
     private void test(BinaryTree<Integer> expected, BinaryTree<Integer> tree, Integer k) {
         assertEquals(expected, FirstGreaterThan.find(tree,k));

@@ -5,7 +5,22 @@ public class FirstGreaterThan {
     */
 
     public static BinaryTree<Integer> find(BinaryTree<Integer> tree, Integer k) {
+        if (tree == null) {
+            return null;
+        }
 
-        return new BinaryTree<>(0);
+        BinaryTree<Integer> it = tree;
+        BinaryTree<Integer> firstGreaterThan = null;
+
+        while (it != null) {
+            if (k < it.data) {
+                firstGreaterThan = it;
+                it = it.left;
+            } else {
+                it = it.right;
+            }
+        }
+
+        return firstGreaterThan;
     }
 }
